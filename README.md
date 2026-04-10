@@ -52,13 +52,6 @@
 
 ---
 
-#### 📚 Currently Learning
-- Data Structures & Algorithms
-- Backend Development (Spring Boot)
-- System Design Basics
-
----
-
 #### 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/your-profile
 - Email: mahbuba345678@gmail.com
