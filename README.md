@@ -6,26 +6,25 @@
 
 ---
 
-## 👩‍💻 About Me
+### 👩‍💻 About Me
 - 🎓 CSE Student
 - 🌱 Learning Data Structures & Algorithms + Backend Development
 - 💡 Interested in Software Engineering & Artificial Intelligence
-- 🎯 Goal: Become a Professional Software Engineer
+- 🎯 Goal: Become a Professional Software Engineer/AI Engineer
 - 🔥 Active on Codeforces & LeetCode
 
 ---
 
-## 🚀 Projects
+#### 🚀 Projects
 - CarQuest - Car Rental System (Java + Database)
 - Phone Hunter - Mobile Search Application (API Based)
-- Bank Management System - OOP Project
 - Problem Solving - Data Structures & Algorithms Practice
 
 💡 All projects are available on my GitHub repositories
 
 ---
 
-## 🛠️ Tech Stack
+#### 🛠️ Tech Stack
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="28"/>
@@ -40,12 +39,12 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="28"/>
 </p>
 
-### Backend Development
+#### Backend Development
 - Spring Boot
 - REST API
 - MySQL
 
-### Core Concepts
+#### Core Concepts
 - Data Structures
 - Algorithms
 - Object-Oriented Programming (OOP)
@@ -53,21 +52,14 @@
 
 ---
 
-## 📈 Competitive Programming
-- Codeforces
-- LeetCode
-- Regular Problem Solving Practice
-
----
-
-## 📚 Currently Learning
+#### 📚 Currently Learning
 - Data Structures & Algorithms
 - Backend Development (Spring Boot)
 - System Design Basics
 
 ---
 
-## 📫 Contact
+#### 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/your-profile
 - Email: mahbuba345678@gmail.com
 
